@@ -27,7 +27,7 @@ Acesse http://localhost:8000. A página inicial da aplicação fica em /html/.
     git push -u origin main
 
 3. No GitHub, abra Settings > Pages, escolha Deploy from a branch, branch main e pasta /(root).
-4. Aguarde a publicação. Com esse nome de repositório, o endereço será https://willian-cruz.github.io/multi-viagens/.
+4. Aguarde a publicação. Com esse nome de repositório, o endereço será [https://willian-cruz.github.io/multi-viagens/](https://willian-cruz.github.io/multi-viagens/html/index.html).
 
 O index.html da raiz permite que o GitHub Pages encontre a página de entrada. Os links são relativos e funcionam no subdiretório do endereço de projeto.
 
